@@ -1,0 +1,23 @@
+{
+    "schemes": [
+      {
+        "id": 1,
+        "name": "Ayushman Bharat",
+        "description": "Provides ₹5 lakh coverage for secondary and tertiary care.",
+        "eligibility": "Families listed in SECC data"
+      },
+      {
+        "id": 2,
+        "name": "PM-JAY",
+        "description": "Free treatment at public/private empanelled hospitals.",
+        "eligibility": "Low-income families"
+      },
+      {
+        "id": 3,
+        "name": "Rashtriya Swasthya Bima Yojana",
+        "description": "Coverage of up to ₹30,000 for BPL families.",
+        "eligibility": "BPL workers in the unorganised sector"
+      }
+    ]
+  }
+  
